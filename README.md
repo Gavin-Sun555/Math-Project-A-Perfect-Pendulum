@@ -1,4 +1,4 @@
-# Police-Shootings-in-the-United-States
+# A Perfect Pendulum
 ## About
 It is the second project for the course VV285 Honor Math III.
 I toke this course in Summer 2018 in Shanghai Jiao Tong University as a sophomore student. The project is written in LaTeX and
